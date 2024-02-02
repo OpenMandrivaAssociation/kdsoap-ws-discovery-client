@@ -14,6 +14,7 @@ BuildRequires:  cmake(ECM)
 BuildRequires:  cmake(Qt6)
 BuildRequires:  cmake(Qt6Core)
 BuildRequires:  cmake(Qt6Network)
+BuildRequires:	cmake(Qt6Xml)
 BuildRequires:  cmake(KDSoap-qt6)
 
 %description
