@@ -18,6 +18,8 @@ BuildRequires:	cmake(Qt6Test)
 BuildRequires:	cmake(Qt6Xml)
 BuildRequires:  cmake(KDSoap-qt6)
 
+BuildRequires:	doxygen
+
 %description
 %{summary}.
 
