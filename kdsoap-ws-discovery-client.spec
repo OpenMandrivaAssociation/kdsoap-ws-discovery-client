@@ -1,6 +1,6 @@
 Name:           kdsoap-ws-discovery-client
 Version:        0.3.0
-Release:        1
+Release:        2
 Summary:        Library for finding WS-Discovery devices in the network using Qt6 and KDSoap
 
 License:        GPL-3.0-or-later AND LicenseRef-OASIS AND LicenseRef-WS-Addressing AND LicenseRef-Discovery AND W3C
